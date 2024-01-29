@@ -79,79 +79,85 @@ education:
         world, a bachelor's degree in this field opens doors to a wide range of career opportunities in various industries.
 
 # Your previous job experiences or volunteer experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: IT Specialist
+      time: June 2020 - Present
+      company: Self-Employed Life Cycle Services
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: [Your Company Logo URL]
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Deliver expert technical assistance to homeowners in establishing and optimizing their network
+          infrastructures.
+        - Facilitate seamless installation and configuration of routers, modems, and essential networking equipment.
+        - Diagnose and rectify connectivity challenges, targeting issues like lagging internet and inconsistent
+          connections.
+        - Architect and enforce robust security protocols to fortify home networks against breaches, malware, and
+          external threats.
+        - Mentor homeowners in adopting industry-leading practices for a fortified, dependable network
+          environment.
+        - Systematically evaluate network health, pinpointing vulnerabilities, and suggesting strategic enhancements.
+        - Guide the flawless integration of smart home gadgets into existing networks, prioritizing security and
+          interoperability.
+        - Advise on strategic equipment positioning and settings adjustments to maximize network efficiency.
+        - Extend specialized support for prevalent home software, including browsers, communication tools, and
+          conferencing platforms.
+        - Stay attuned to cutting-edge home networking trends, proactively advising on tech enhancements to
+          bolster performance and security.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Maintenance Technician - HVAC
+      time: 2017 - 2020
+      company: Cushman & Wakefield – Miami
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: [Your Company Logo URL]
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Conduct routine inspections and maintenance of equipment, machinery, and facilities.
+        - Diagnose and troubleshoot mechanical, electrical, and plumbing issues.
+        - Perform repairs and replacements of faulty parts and components.
+        - Respond to maintenance requests and resolve issues in a timely manner.
+        - Keep accurate records of maintenance activities, including work orders and repairs.
+        - Perform preventive maintenance tasks to ensure the longevity and efficiency of equipment.
+        - Monitor and maintain the cleanliness and safety of work areas and facilities.
+        - Collaborate with other team members and supervisors to coordinate maintenance tasks.
+        - Source and order necessary supplies and materials for maintenance and repairs.
+        - Stay updated on industry best practices and technological advancements in maintenance.
+        - Comply with safety regulations and ensure adherence to company policies.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Sales Associate
+      time: 2013 - 2017
+      company: Mazda of Midland – Texas
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: [Your Company Logo URL]
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-# Add your resume details below:
-    - role: Your Current Role
-      time: Start Year - Present
-      company: Your Current Company
-      # optional
-      company_logo: Your Company Logo URL
-      details: |
-        Describe your role here. You can add your job responsibilities,
-        achievements, and any relevant information.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Previous Role
-      time: Previous Job Year - End Year
-      company: Previous Company
-      # optional
-      company_logo: Previous Company Logo URL
-      details: |
-        Describe your role here. Add information about your responsibilities,
-        achievements, and experiences during this job.
-
-          - Bullet point
-          - Bullet point
+        Customer Relationship Management: Establish and maintain positive relationships with potential and
+        existing customers. Listen attentively to their needs, preferences, and budget constraints to recommend
+        suitable vehicles.
+        Sales and Lead Generation: Proactively approach customers on the showroom floor, through phone calls,
+        emails, and other communication channels. Generate leads through networking, referrals, and attending
+        community events.
+        Product Knowledge: Stay updated on the latest vehicle models, features, specifications, and promotions
+        to provide accurate and comprehensive information to customers.
+        Conduct Test Drives: Coordinate and accompany customers on test drives, highlighting the unique selling
+        points of each vehicle to increase their interest and confidence in making a purchase.
+        Negotiation and Closing Deals: Skillfully negotiate pricing, financing options, and trade-in values to
+        finalize sales agreements and secure customer satisfaction.
+        Documentation and Follow-Up: Efficiently manage all paperwork related to sales transactions, ensuring
+        compliance with dealership policies and legal requirements. Follow up with customers to ensure their
+        complete satisfaction after the purchase.
+        Upselling and Cross-Selling: Identify opportunities for upselling additional products and services, such as
+        extended warranties, accessories, and maintenance plans, to enhance customer satisfaction and
+        dealership revenue.
+        Sales Reporting: Provide regular sales reports to management, tracking individual performance
+        metrics and contributing to the overall success of the dealership.
+        Significant Accomplishments:
+        - Consistently Exceeded Sales Targets: Achieved a 25% increase in monthly sales, surpassing
+        dealership goals for three consecutive quarters.
+        - Recognized for Outstanding Customer Service: Received multiple customer satisfaction awards,
+        maintaining a positive feedback rating of over 95% from customer surveys.
+        - Top Performer in Lead Generation: Led the dealership in generating qualified leads through
+        proactive outreach and networking efforts, resulting in a 30% increase in potential customers.
+        - Closed Complex Deals Successfully: Demonstrated exceptional negotiation skills to close high-value
+        sales deals, including luxury vehicles and fleet orders, contributing to the dealership's profitability.
+        - Contributed to Team Training: Assisted in training new sales associates on product knowledge,
+        sales techniques, and customer service, fostering a cohesive and knowledgeable sales team.
 
 
 # Your project portfolio
